@@ -1,14 +1,22 @@
 {
   "name": "new-bot",
   "version": "1.0.0",
-  "description": "",
+  "description": "Um simples bot para Discord",
   "main": "bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fl4m3x/whitelist-bot.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fl4m3x/whitelist-bot/issues"
+  },
+  "homepage": "https://github.com/fl4m3x/whitelist-bot#readme",
   "dependencies": {
     "discord.js": "^12.2.0"
   }
